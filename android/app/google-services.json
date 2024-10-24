@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "157878797833",
+    "firebase_url": "https://fly-drone-253e2-default-rtdb.firebaseio.com",
+    "project_id": "fly-drone-253e2",
+    "storage_bucket": "fly-drone-253e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157878797833:android:2bea7a331475c1afeb9ad8",
+        "android_client_info": {
+          "package_name": "com.FlyDrone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157878797833-m0dq6ej38skp0e84k1au0rt19utbvns2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.FlyDrone",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "157878797833-gbgdrc4gr1j0n1bee4sk91g2mvosc4uc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2g6E9DTUjXBWInKtUdBAegzS_PRUDl70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157878797833-gbgdrc4gr1j0n1bee4sk91g2mvosc4uc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "157878797833-ib6osf95fptudffmfvtqc7qmaru6aof4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fly.drone"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157878797833:android:ef8a563f7cb0337aeb9ad8",
+        "android_client_info": {
+          "package_name": "com.starLaunch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157878797833-crjg9lvs17k8opbpp76j6tkjfanv26b7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.starLaunch",
+            "certificate_hash": "fc95a1af852643c7055a4d5b4fa91940d60c4173"
+          }
+        },
+        {
+          "client_id": "157878797833-gbgdrc4gr1j0n1bee4sk91g2mvosc4uc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2g6E9DTUjXBWInKtUdBAegzS_PRUDl70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157878797833-gbgdrc4gr1j0n1bee4sk91g2mvosc4uc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "157878797833-ib6osf95fptudffmfvtqc7qmaru6aof4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fly.drone"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

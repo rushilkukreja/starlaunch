@@ -1,0 +1,99 @@
+com.starLaunch.app-lifecycle-service-2.6.2-0 /Users/rushilkukreja/.gradle/caches/8.8/transforms/02ab8b0fa5a03d6d93ff466f2fb85af6/transformed/lifecycle-service-2.6.2/res
+com.starLaunch.app-camera-core-1.5.0-alpha01-1 /Users/rushilkukreja/.gradle/caches/8.8/transforms/05d92a36dd8f1bf446a57c035720cf1b/transformed/camera-core-1.5.0-alpha01/res
+com.starLaunch.app-emoji2-views-helper-1.2.0-2 /Users/rushilkukreja/.gradle/caches/8.8/transforms/079e67af3da746860b313c4b12dd8319/transformed/emoji2-views-helper-1.2.0/res
+com.starLaunch.app-ads-adservices-1.0.0-beta05-3 /Users/rushilkukreja/.gradle/caches/8.8/transforms/0d77550e26746e54aa63604526b4b2d5/transformed/ads-adservices-1.0.0-beta05/res
+com.starLaunch.app-lifecycle-viewmodel-savedstate-2.6.2-4 /Users/rushilkukreja/.gradle/caches/8.8/transforms/1022a52013cba30559a721e61c857cf8/transformed/lifecycle-viewmodel-savedstate-2.6.2/res
+com.starLaunch.app-core-runtime-2.2.0-5 /Users/rushilkukreja/.gradle/caches/8.8/transforms/1abcbabcbb25fe5814c9d3fa3e3a373f/transformed/core-runtime-2.2.0/res
+com.starLaunch.app-tracing-ktx-1.2.0-6 /Users/rushilkukreja/.gradle/caches/8.8/transforms/1cfe885cab2b778694075510f68e9153/transformed/tracing-ktx-1.2.0/res
+com.starLaunch.app-savedstate-ktx-1.2.1-7 /Users/rushilkukreja/.gradle/caches/8.8/transforms/29eeb942129f62bf7c5a78b5b8d05a66/transformed/savedstate-ktx-1.2.1/res
+com.starLaunch.app-play-services-base-18.5.0-8 /Users/rushilkukreja/.gradle/caches/8.8/transforms/2bb7664ab2280b83fbd1e681295b0338/transformed/play-services-base-18.5.0/res
+com.starLaunch.app-camera-view-1.5.0-alpha01-9 /Users/rushilkukreja/.gradle/caches/8.8/transforms/2f70893b3c8c4e4770e938a823113541/transformed/camera-view-1.5.0-alpha01/res
+com.starLaunch.app-camera-lifecycle-1.5.0-alpha01-10 /Users/rushilkukreja/.gradle/caches/8.8/transforms/306ee446e5e8362e6e76559502772253/transformed/camera-lifecycle-1.5.0-alpha01/res
+com.starLaunch.app-material-1.6.1-11 /Users/rushilkukreja/.gradle/caches/8.8/transforms/338a945b5c10e550afbfd3f71880b4d6/transformed/material-1.6.1/res
+com.starLaunch.app-annotation-experimental-1.4.1-12 /Users/rushilkukreja/.gradle/caches/8.8/transforms/34f37b851a58c7b8890472bf7a950a31/transformed/annotation-experimental-1.4.1/res
+com.starLaunch.app-credentials-1.2.0-rc01-13 /Users/rushilkukreja/.gradle/caches/8.8/transforms/35af2916ef8a29a5a915c6c5da63b8f7/transformed/credentials-1.2.0-rc01/res
+com.starLaunch.app-lifecycle-livedata-2.6.2-14 /Users/rushilkukreja/.gradle/caches/8.8/transforms/3b6150e0c9027a39cfa5f9feb7366cda/transformed/lifecycle-livedata-2.6.2/res
+com.starLaunch.app-android-maps-utils-3.8.2-15 /Users/rushilkukreja/.gradle/caches/8.8/transforms/3ca4bae957c3313a86b313775e3b1e6b/transformed/android-maps-utils-3.8.2/res
+com.starLaunch.app-drawee-3.2.0-16 /Users/rushilkukreja/.gradle/caches/8.8/transforms/4be4347483f8f51cc35e061be3b965aa/transformed/drawee-3.2.0/res
+com.starLaunch.app-viewpager2-1.0.0-17 /Users/rushilkukreja/.gradle/caches/8.8/transforms/4daa5d41c3067a71479f88ea1b2d0b2a/transformed/viewpager2-1.0.0/res
+com.starLaunch.app-constraintlayout-2.0.1-18 /Users/rushilkukreja/.gradle/caches/8.8/transforms/4eff61d6ce42097c101bad216bc950b8/transformed/constraintlayout-2.0.1/res
+com.starLaunch.app-profileinstaller-1.3.0-19 /Users/rushilkukreja/.gradle/caches/8.8/transforms/56375da109e6305ca3990bff50402818/transformed/profileinstaller-1.3.0/res
+com.starLaunch.app-fragment-1.5.7-20 /Users/rushilkukreja/.gradle/caches/8.8/transforms/579f85dba419e9750e8e0ba6f4e8a378/transformed/fragment-1.5.7/res
+com.starLaunch.app-camera-camera2-1.5.0-alpha01-21 /Users/rushilkukreja/.gradle/caches/8.8/transforms/5a4a364fc5e3aa60482a2e84b66ea0ef/transformed/camera-camera2-1.5.0-alpha01/res
+com.starLaunch.app-appcompat-1.6.1-22 /Users/rushilkukreja/.gradle/caches/8.8/transforms/5b3d612c481b95521bc4949ba2d7e6f6/transformed/appcompat-1.6.1/res
+com.starLaunch.app-swiperefreshlayout-1.1.0-23 /Users/rushilkukreja/.gradle/caches/8.8/transforms/6b0b879f5bcdc57d8b9e18b3777b7404/transformed/swiperefreshlayout-1.1.0/res
+com.starLaunch.app-drawerlayout-1.1.1-24 /Users/rushilkukreja/.gradle/caches/8.8/transforms/6d8ea88adbe2ea3383ab4dc3a6efcf62/transformed/drawerlayout-1.1.1/res
+com.starLaunch.app-recyclerview-1.3.0-25 /Users/rushilkukreja/.gradle/caches/8.8/transforms/731ced97d9c5b2cda62959b9548fc936/transformed/recyclerview-1.3.0/res
+com.starLaunch.app-credentials-play-services-auth-1.2.0-rc01-26 /Users/rushilkukreja/.gradle/caches/8.8/transforms/789b1d778c2e738e0e2d1066012fa29b/transformed/credentials-play-services-auth-1.2.0-rc01/res
+com.starLaunch.app-activity-1.8.2-27 /Users/rushilkukreja/.gradle/caches/8.8/transforms/7e593740c5601d96638f130d6a4f871b/transformed/activity-1.8.2/res
+com.starLaunch.app-savedstate-1.2.1-28 /Users/rushilkukreja/.gradle/caches/8.8/transforms/7edf60f9ed5e6c5a2e4354112c28160d/transformed/savedstate-1.2.1/res
+com.starLaunch.app-coordinatorlayout-1.2.0-29 /Users/rushilkukreja/.gradle/caches/8.8/transforms/86049833498fec94885dae8bfcb03221/transformed/coordinatorlayout-1.2.0/res
+com.starLaunch.app-lifecycle-livedata-core-2.6.2-30 /Users/rushilkukreja/.gradle/caches/8.8/transforms/8ca93fa34c22adba63e9e2b868509f4f/transformed/lifecycle-livedata-core-2.6.2/res
+com.starLaunch.app-autofill-1.1.0-31 /Users/rushilkukreja/.gradle/caches/8.8/transforms/927b160d6ffe5e9905a0c125c2f849a4/transformed/autofill-1.1.0/res
+com.starLaunch.app-appcompat-resources-1.6.1-32 /Users/rushilkukreja/.gradle/caches/8.8/transforms/9c2492fecead9023743367a5f686b25b/transformed/appcompat-resources-1.6.1/res
+com.starLaunch.app-firebase-common-21.0.0-33 /Users/rushilkukreja/.gradle/caches/8.8/transforms/9dcacd3bde5e5682961b18eb99c74b91/transformed/firebase-common-21.0.0/res
+com.starLaunch.app-emoji2-1.2.0-34 /Users/rushilkukreja/.gradle/caches/8.8/transforms/9e71cb23b873b4912097f6f9bdd26ec9/transformed/emoji2-1.2.0/res
+com.starLaunch.app-play-services-auth-21.2.0-35 /Users/rushilkukreja/.gradle/caches/8.8/transforms/a0f6fe0b0b842200da5db6e2eac96bcb/transformed/play-services-auth-21.2.0/res
+com.starLaunch.app-camera-extensions-1.5.0-alpha01-36 /Users/rushilkukreja/.gradle/caches/8.8/transforms/a23ea5bf13781515cba69e72f10b4bd2/transformed/camera-extensions-1.5.0-alpha01/res
+com.starLaunch.app-startup-runtime-1.1.1-37 /Users/rushilkukreja/.gradle/caches/8.8/transforms/a798624edd8dc6fe13676d9be1809d41/transformed/startup-runtime-1.1.1/res
+com.starLaunch.app-media-1.7.0-38 /Users/rushilkukreja/.gradle/caches/8.8/transforms/aadc2352062ab51987c062d8b73c377a/transformed/media-1.7.0/res
+com.starLaunch.app-core-1.13.1-39 /Users/rushilkukreja/.gradle/caches/8.8/transforms/ab6ff73f2e0342bb51dab2e11bdca7ac/transformed/core-1.13.1/res
+com.starLaunch.app-browser-1.4.0-40 /Users/rushilkukreja/.gradle/caches/8.8/transforms/acf9b189106be8793af5a92e28c82a27/transformed/browser-1.4.0/res
+com.starLaunch.app-cardview-1.0.0-41 /Users/rushilkukreja/.gradle/caches/8.8/transforms/ae5b48c204e93a83589167318f026288/transformed/cardview-1.0.0/res
+com.starLaunch.app-play-services-measurement-api-22.1.0-42 /Users/rushilkukreja/.gradle/caches/8.8/transforms/b0c1ee98bddffff6f33454d71ce14d06/transformed/play-services-measurement-api-22.1.0/res
+com.starLaunch.app-customview-poolingcontainer-1.0.0-43 /Users/rushilkukreja/.gradle/caches/8.8/transforms/b180723ef90b9a0fa55694f9664cdb56/transformed/customview-poolingcontainer-1.0.0/res
+com.starLaunch.app-core-ktx-1.13.1-44 /Users/rushilkukreja/.gradle/caches/8.8/transforms/b1f4880c2eb8255f9bd46aae6e4b305a/transformed/core-ktx-1.13.1/res
+com.starLaunch.app-work-runtime-2.7.1-45 /Users/rushilkukreja/.gradle/caches/8.8/transforms/b5b40d6c09c51c482a388d20e3463158/transformed/work-runtime-2.7.1/res
+com.starLaunch.app-lifecycle-viewmodel-ktx-2.6.2-46 /Users/rushilkukreja/.gradle/caches/8.8/transforms/b773c68e8dda20de6b1e08ed6e4f797d/transformed/lifecycle-viewmodel-ktx-2.6.2/res
+com.starLaunch.app-react-android-0.75.4-debug-47 /Users/rushilkukreja/.gradle/caches/8.8/transforms/b9436aeb5642bf8b1ba1c1c2d8199fa3/transformed/react-android-0.75.4-debug/res
+com.starLaunch.app-media3-ui-1.4.1-48 /Users/rushilkukreja/.gradle/caches/8.8/transforms/c69fb0f6b2973edd3d56a79d962f4a24/transformed/media3-ui-1.4.1/res
+com.starLaunch.app-transition-1.2.0-49 /Users/rushilkukreja/.gradle/caches/8.8/transforms/cba5df8a5f3fe7acc011bc6f2d0f1f8d/transformed/transition-1.2.0/res
+com.starLaunch.app-media3-exoplayer-1.4.1-50 /Users/rushilkukreja/.gradle/caches/8.8/transforms/d005b7b1221a7ff5769a3da0b0e4edfa/transformed/media3-exoplayer-1.4.1/res
+com.starLaunch.app-media3-session-1.4.1-51 /Users/rushilkukreja/.gradle/caches/8.8/transforms/d316bed38e99662d8b729e648dd46675/transformed/media3-session-1.4.1/res
+com.starLaunch.app-lifecycle-runtime-ktx-2.6.2-52 /Users/rushilkukreja/.gradle/caches/8.8/transforms/db9be502dbb55b3a60e52f4780e2a383/transformed/lifecycle-runtime-ktx-2.6.2/res
+com.starLaunch.app-activity-ktx-1.8.2-53 /Users/rushilkukreja/.gradle/caches/8.8/transforms/def80142202709929587a454cbaea51d/transformed/activity-ktx-1.8.2/res
+com.starLaunch.app-lifecycle-runtime-2.6.2-54 /Users/rushilkukreja/.gradle/caches/8.8/transforms/e001768804382c71ffb9e3f17bb23962/transformed/lifecycle-runtime-2.6.2/res
+com.starLaunch.app-play-services-maps-18.2.0-55 /Users/rushilkukreja/.gradle/caches/8.8/transforms/e4b36a0fb81f6196eeb1e8fbf052d04e/transformed/play-services-maps-18.2.0/res
+com.starLaunch.app-tracing-1.2.0-56 /Users/rushilkukreja/.gradle/caches/8.8/transforms/e5ea13d4843f80231b26df3202cc3f1d/transformed/tracing-1.2.0/res
+com.starLaunch.app-camera-video-1.5.0-alpha01-57 /Users/rushilkukreja/.gradle/caches/8.8/transforms/ea880e7d6a58b77d3d1c8adb1666bf9f/transformed/camera-video-1.5.0-alpha01/res
+com.starLaunch.app-ads-adservices-java-1.0.0-beta05-58 /Users/rushilkukreja/.gradle/caches/8.8/transforms/eb1f89182d2a0e99dbd0abfc82d56f92/transformed/ads-adservices-java-1.0.0-beta05/res
+com.starLaunch.app-lifecycle-viewmodel-2.6.2-59 /Users/rushilkukreja/.gradle/caches/8.8/transforms/ef0dea2dbe5dff87583724e5e4018a6e/transformed/lifecycle-viewmodel-2.6.2/res
+com.starLaunch.app-lifecycle-process-2.6.2-60 /Users/rushilkukreja/.gradle/caches/8.8/transforms/f1aa3939c152283cbecbd4c6f25573dc/transformed/lifecycle-process-2.6.2/res
+com.starLaunch.app-play-services-basement-18.4.0-61 /Users/rushilkukreja/.gradle/caches/8.8/transforms/f7fbb5527dfcc1e44aa30c53f0e4aad3/transformed/play-services-basement-18.4.0/res
+com.starLaunch.app-pngs-62 /Users/rushilkukreja/Downloads/FlyDrone_React-master 2/android/app/build/generated/res/pngs/debug
+com.starLaunch.app-res-63 /Users/rushilkukreja/Downloads/FlyDrone_React-master 2/android/app/build/generated/res/processDebugGoogleServices
+com.starLaunch.app-resValues-64 /Users/rushilkukreja/Downloads/FlyDrone_React-master 2/android/app/build/generated/res/resValues/debug
+com.starLaunch.app-packageDebugResources-65 /Users/rushilkukreja/Downloads/FlyDrone_React-master 2/android/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.starLaunch.app-packageDebugResources-66 /Users/rushilkukreja/Downloads/FlyDrone_React-master 2/android/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.starLaunch.app-debug-67 /Users/rushilkukreja/Downloads/FlyDrone_React-master 2/android/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.starLaunch.app-debug-68 /Users/rushilkukreja/Downloads/FlyDrone_React-master 2/android/app/src/debug/res
+com.starLaunch.app-main-69 /Users/rushilkukreja/Downloads/FlyDrone_React-master 2/android/app/src/main/res
+com.starLaunch.app-debug-70 /Users/rushilkukreja/Downloads/FlyDrone_React-master 2/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/packaged_res/debug/packageDebugResources
+com.starLaunch.app-debug-71 /Users/rushilkukreja/Downloads/FlyDrone_React-master 2/node_modules/@react-native-camera-roll/camera-roll/android/build/intermediates/packaged_res/debug/packageDebugResources
+com.starLaunch.app-debug-72 /Users/rushilkukreja/Downloads/FlyDrone_React-master 2/node_modules/@react-native-community/checkbox/android/build/intermediates/packaged_res/debug/packageDebugResources
+com.starLaunch.app-debug-73 /Users/rushilkukreja/Downloads/FlyDrone_React-master 2/node_modules/@react-native-community/datetimepicker/android/build/intermediates/packaged_res/debug/packageDebugResources
+com.starLaunch.app-debug-74 /Users/rushilkukreja/Downloads/FlyDrone_React-master 2/node_modules/@react-native-community/netinfo/android/build/intermediates/packaged_res/debug/packageDebugResources
+com.starLaunch.app-debug-75 /Users/rushilkukreja/Downloads/FlyDrone_React-master 2/node_modules/@react-native-firebase/app/android/build/intermediates/packaged_res/debug/packageDebugResources
+com.starLaunch.app-debug-76 /Users/rushilkukreja/Downloads/FlyDrone_React-master 2/node_modules/@react-native-firebase/auth/android/build/intermediates/packaged_res/debug/packageDebugResources
+com.starLaunch.app-debug-77 /Users/rushilkukreja/Downloads/FlyDrone_React-master 2/node_modules/@react-native-firebase/database/android/build/intermediates/packaged_res/debug/packageDebugResources
+com.starLaunch.app-debug-78 /Users/rushilkukreja/Downloads/FlyDrone_React-master 2/node_modules/@react-native-google-signin/google-signin/android/build/intermediates/packaged_res/debug/packageDebugResources
+com.starLaunch.app-debug-79 /Users/rushilkukreja/Downloads/FlyDrone_React-master 2/node_modules/@react-native-masked-view/masked-view/android/build/intermediates/packaged_res/debug/packageDebugResources
+com.starLaunch.app-debug-80 /Users/rushilkukreja/Downloads/FlyDrone_React-master 2/node_modules/@react-native-picker/picker/android/build/intermediates/packaged_res/debug/packageDebugResources
+com.starLaunch.app-debug-81 /Users/rushilkukreja/Downloads/FlyDrone_React-master 2/node_modules/react-native-android-open-settings/android/build/intermediates/packaged_res/debug/packageDebugResources
+com.starLaunch.app-debug-82 /Users/rushilkukreja/Downloads/FlyDrone_React-master 2/node_modules/react-native-config/android/build/intermediates/packaged_res/debug/packageDebugResources
+com.starLaunch.app-debug-83 /Users/rushilkukreja/Downloads/FlyDrone_React-master 2/node_modules/react-native-date-picker/android/build/intermediates/packaged_res/debug/packageDebugResources
+com.starLaunch.app-debug-84 /Users/rushilkukreja/Downloads/FlyDrone_React-master 2/node_modules/react-native-fs/android/build/intermediates/packaged_res/debug/packageDebugResources
+com.starLaunch.app-debug-85 /Users/rushilkukreja/Downloads/FlyDrone_React-master 2/node_modules/react-native-gesture-handler/android/build/intermediates/packaged_res/debug/packageDebugResources
+com.starLaunch.app-debug-86 /Users/rushilkukreja/Downloads/FlyDrone_React-master 2/node_modules/react-native-get-location/android/build/intermediates/packaged_res/debug/packageDebugResources
+com.starLaunch.app-debug-87 /Users/rushilkukreja/Downloads/FlyDrone_React-master 2/node_modules/react-native-image-picker/android/build/intermediates/packaged_res/debug/packageDebugResources
+com.starLaunch.app-debug-88 /Users/rushilkukreja/Downloads/FlyDrone_React-master 2/node_modules/react-native-linear-gradient/android/build/intermediates/packaged_res/debug/packageDebugResources
+com.starLaunch.app-debug-89 /Users/rushilkukreja/Downloads/FlyDrone_React-master 2/node_modules/react-native-maps/android/build/intermediates/packaged_res/debug/packageDebugResources
+com.starLaunch.app-debug-90 /Users/rushilkukreja/Downloads/FlyDrone_React-master 2/node_modules/react-native-permissions/android/build/intermediates/packaged_res/debug/packageDebugResources
+com.starLaunch.app-debug-91 /Users/rushilkukreja/Downloads/FlyDrone_React-master 2/node_modules/react-native-reanimated/android/build/intermediates/packaged_res/debug/packageDebugResources
+com.starLaunch.app-debug-92 /Users/rushilkukreja/Downloads/FlyDrone_React-master 2/node_modules/react-native-safe-area-context/android/build/intermediates/packaged_res/debug/packageDebugResources
+com.starLaunch.app-debug-93 /Users/rushilkukreja/Downloads/FlyDrone_React-master 2/node_modules/react-native-screens/android/build/intermediates/packaged_res/debug/packageDebugResources
+com.starLaunch.app-debug-94 /Users/rushilkukreja/Downloads/FlyDrone_React-master 2/node_modules/react-native-sensors/android/build/intermediates/packaged_res/debug/packageDebugResources
+com.starLaunch.app-debug-95 /Users/rushilkukreja/Downloads/FlyDrone_React-master 2/node_modules/react-native-share/android/build/intermediates/packaged_res/debug/packageDebugResources
+com.starLaunch.app-debug-96 /Users/rushilkukreja/Downloads/FlyDrone_React-master 2/node_modules/react-native-vector-icons/android/build/intermediates/packaged_res/debug/packageDebugResources
+com.starLaunch.app-debug-97 /Users/rushilkukreja/Downloads/FlyDrone_React-master 2/node_modules/react-native-video/android/buildOutput_a15d4dee7fc4eda61b91308cbb6a2e72/intermediates/packaged_res/debug/packageDebugResources
+com.starLaunch.app-debug-98 /Users/rushilkukreja/Downloads/FlyDrone_React-master 2/node_modules/react-native-vision-camera/android/build/intermediates/packaged_res/debug/packageDebugResources

@@ -1,0 +1,434 @@
+[
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_dashboardicons_lastflightdate.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_dashboardicons_lastflightdate.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_dashboardicons_search.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_dashboardicons_search.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_adddroneicons_back.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_adddroneicons_back.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_icons_motor.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_icons_motor.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.starLaunch.app-main-69:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_icons_website.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_icons_website.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_icons_windgusts.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_icons_windgusts.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_icons_temperature.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_icons_temperature.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_facebook.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_facebook.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_settingicons_radio.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_settingicons_radio.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_icons_share.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_icons_share.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_icons_stopwatch.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_icons_stopwatch.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_icons_logo.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_icons_logo.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_icons_drone.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_icons_drone.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_settingicons_light.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_settingicons_light.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_dashboardicons_locationfocused.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_dashboardicons_locationfocused.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_dashboardicons_profilefocused.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_dashboardicons_profilefocused.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_sharewithme_owner.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_sharewithme_owner.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_dashboardicons_mass.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_dashboardicons_mass.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_dashboardicons_engine.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_dashboardicons_engine.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_icons_video_stopwatch.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_icons_video_stopwatch.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_dashboardicons_chatbot.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_dashboardicons_chatbot.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_icons_emoji.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_icons_emoji.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_icons_camera.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_icons_camera.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.starLaunch.app-main-69:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_icons_logout.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_icons_logout.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_icons_searchlocation.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_icons_searchlocation.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_icons_start_flight_icon.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_icons_start_flight_icon.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_setting.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_setting.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_adddroneicons_searchdrone.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_adddroneicons_searchdrone.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_dashboardicons_profile.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_dashboardicons_profile.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_adddroneicons_angle.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_adddroneicons_angle.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_icons_weather.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_icons_weather.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_dashboardicons_altitude.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_dashboardicons_altitude.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_drone.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_drone.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_icons_network.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_icons_network.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_icons_check.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_icons_check.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_icons_precipitation.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_icons_precipitation.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_icons_setting.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_icons_setting.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_google.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_google.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_password_visible.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_password_visible.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_icons_delete.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_icons_delete.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_user_icon.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_user_icon.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_dashboardicons_chatbotfocused.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_dashboardicons_chatbotfocused.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_splash_arrow.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_splash_arrow.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_icons_compass.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_icons_compass.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_icons_air_pressure.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_icons_air_pressure.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_icons_nearby.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_icons_nearby.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_icons_password.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_icons_password.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_dashboardicons_plus.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_dashboardicons_plus.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_dashboardicons_setting.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_dashboardicons_setting.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_sharewithme_star.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_sharewithme_star.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_logo.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_logo.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_icons_pencil.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_icons_pencil.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_settingicons_twitter.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_settingicons_twitter.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_dashboardicons_homelogo.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_dashboardicons_homelogo.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_icons_wind.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_icons_wind.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.starLaunch.app-main-69:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_settingicons_instagram.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_settingicons_instagram.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_check.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_check.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_icons_edit_profile.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_icons_edit_profile.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_icons_send.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_icons_send.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.starLaunch.app-main-69:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_icons_terms_of_services.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_icons_terms_of_services.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_images_profile_image.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_images_profile_image.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_dashboardicons_homefocused.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_dashboardicons_homefocused.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_icons_google.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_icons_google.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_icons_dropdown_arrow.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_icons_dropdown_arrow.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_icons_user_icon.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_icons_user_icon.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_icons_location.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_icons_location.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_icons_rocket3.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_icons_rocket3.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_password.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_password.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_icons_visible.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_icons_visible.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_icons_back.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_icons_back.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_settingicons_dark.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_settingicons_dark.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_dashboardicons_location.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_dashboardicons_location.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_icons_rocket2.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_icons_rocket2.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_icons_privacy.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_icons_privacy.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_icons_password_visible.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_icons_password_visible.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.starLaunch.app-main-69:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_icons_uncheck.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_icons_uncheck.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_dashboardicons_flighttime.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_dashboardicons_flighttime.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_dashboardicons_home.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_dashboardicons_home.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_settingicons_midnight.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_settingicons_midnight.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.starLaunch.app-main-69:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_icons_facebook.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_icons_facebook.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_adddroneicons_setting.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_adddroneicons_setting.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.starLaunch.app-main-69:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_icons_dropdown.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_icons_dropdown.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_icons_adjust_level.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_icons_adjust_level.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_uncheck.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_uncheck.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_settingicons_review.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_settingicons_review.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_apple.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_apple.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_icons_author.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_icons_author.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_icons_apple.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_icons_apple.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_icons_time.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_icons_time.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_email.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_email.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_icons_edit.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_icons_edit.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_settingicons_share.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_settingicons_share.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_images_map.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_images_map.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_icons_email.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_icons_email.png"
+    },
+    {
+        "merged": "com.starLaunch.app-debug-67:/drawable-mdpi_src_assets_dashboardicons_verified.png.flat",
+        "source": "com.starLaunch.app-main-69:/drawable-mdpi/src_assets_dashboardicons_verified.png"
+    }
+]

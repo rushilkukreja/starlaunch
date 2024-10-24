@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">157878797833-gbgdrc4gr1j0n1bee4sk91g2mvosc4uc.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://fly-drone-253e2-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">157878797833</string>
+    <string name="google_api_key" translatable="false">AIzaSyC2g6E9DTUjXBWInKtUdBAegzS_PRUDl70</string>
+    <string name="google_app_id" translatable="false">1:157878797833:android:ef8a563f7cb0337aeb9ad8</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC2g6E9DTUjXBWInKtUdBAegzS_PRUDl70</string>
+    <string name="google_storage_bucket" translatable="false">fly-drone-253e2.appspot.com</string>
+    <string name="project_id" translatable="false">fly-drone-253e2</string>
+</resources>
