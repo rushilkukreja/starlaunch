@@ -22,6 +22,6 @@
 
 **Additional Information**
 -
-StarLaunch has a provisional utility patent (#68187415) on _Neural Intelligence Application for Precision Rocket Launch Optimization, Predictive Flight Guidance, and Adaptive Environmental Calibration_.
+StarLaunch has a provisional utility patent (#63727018) on _Neural Intelligence Application for Precision Rocket Launch Optimization, Predictive Flight Guidance, and Adaptive Environmental Calibration_.
 
 StarLaunch is published on the App Store and Google Play Store.
